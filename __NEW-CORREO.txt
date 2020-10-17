@@ -1,11 +1,13 @@
+otra linea
+
 _Filito*0528
 CCS
 
 
 acceso CLOUD
  
-[10:53, 5/8/2020] Pablo Muñoz: Ssh root@tusf.cl
-[10:53, 5/8/2020] Pablo Muñoz: Pasa: ..$11s5..
+[10:53, 5/8/2020] Pablo Muï¿½oz: Ssh root@tusf.cl
+[10:53, 5/8/2020] Pablo Muï¿½oz: Pasa: ..$11s5..
 
 SIISA1517
 sitsa1517
@@ -32,7 +34,7 @@ s33050a
 
 
   ANTECEDENTES GENERALES - SISTEMA SIISA
-  Nombre / Razón Social	PINTO CONTRERAS LUIS
+  Nombre / Razï¿½n Social	PINTO CONTRERAS LUIS
   R.U.N. / R.U.T.	0009380051-6
 
 
@@ -41,7 +43,7 @@ curso Ingles
 
 Merril GHFX6Wf44wamet5
 
-Código Postal:
+Cï¿½digo Postal:
     7550147 
 
 ASTURIAS 280, LAS CONDES
